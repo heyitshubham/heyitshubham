@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitshubham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitshubham" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **AngularJS**
 
 - 💬 Ask me about **Android, SpringBoot**
 
