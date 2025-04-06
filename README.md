@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>
-<h3 align="center">A passionate full stack developer at QSS Technosoft. I live in Ghaziabad, IN. 🙌 I'm a huge nerd/geek, tech enthusiast, table tennis fan, and aspiring bug hunter.🌎 💕</h3>
+<h3 align="center">A passionate full stack developer. I live in Ghaziabad, IN. 🙌 I'm a huge nerd/geek, tech enthusiast, table tennis fan, and aspiring bug hunter.🌎 💕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitshubham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitshubham" /> </p>
 
