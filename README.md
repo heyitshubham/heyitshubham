@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitshubham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitshubham" /> </p>
 
-- 🌱 I’m currently working on **Spring boot** and **AngularJS**
+- 🌱 I’m currently working on **Spring boot** and **Angular**, and exploring **AI/NLP**
 
-- 💬 Ask me about **Android, SpringBoot, Angular, SQL**
+- 💬 Ask me about **SpringBoot, Angular, SQL, AWS, AI, NLP**
 
 - 📫 How to reach me **shubhamchouh@gmail.com**
 
