@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SpringBoot, Angular, SQL, AWS, AI, NLP**
 
-- 📫 How to reach me **shubhamchouh@gmail.com**
+- 📫 How to reach me **dev2shubham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
