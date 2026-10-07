@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-label="Dukaan Saathi: An AI business partner for kirana stores: WhatsApp orders, khata credit, and a copilot that can say no.">
+  <style>.m{font-family:'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00baf2" stop-opacity=".16"/><stop offset=".55" stop-color="#00baf2" stop-opacity="0"/></linearGradient>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#000" opacity=".35"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="458" height="208" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="1" y="1" width="458" height="208" rx="14" fill="#0d1117"/>
+    <rect x="1" y="1" width="458" height="208" rx="14" fill="url(#glow)"/>
+    <rect x="1" y="1" width="5" height="208" fill="#00baf2"/>
+    
+  </g>
+  <rect x="1" y="1" width="458" height="208" rx="14" fill="none" stroke="#30363d"/>
+  <text x="28" y="40" class="m" fill="#00baf2" style="font-size:11px;letter-spacing:1.5px">HACKATHON · PAYTM · MERCHANT GROWTH AI</text>
+  <text x="28" y="78" class="s" fill="#e6edf3" style="font-size:26px;font-weight:800">Dukaan Saathi</text>
+  <text x="28" y="110" class="s" fill="#8b949e" style="font-size:14px">An AI business partner for kirana stores: WhatsApp</text>
+  <text x="28" y="132" class="s" fill="#8b949e" style="font-size:14px">orders, khata credit, and a copilot that can say no.</text>
+  <rect x="28" y="160" width="52" height="26" rx="13" fill="#00baf2" fill-opacity=".12" stroke="#00baf2" stroke-opacity=".45"/><text x="54" y="177" text-anchor="middle" class="m" fill="#00baf2" style="font-size:12px">Java</text><rect x="87.6" y="160" width="74" height="26" rx="13" fill="#00baf2" fill-opacity=".12" stroke="#00baf2" stroke-opacity=".45"/><text x="124" y="177" text-anchor="middle" class="m" fill="#00baf2" style="font-size:12px">Next.js</text><rect x="169.4" y="160" width="89" height="26" rx="13" fill="#00baf2" fill-opacity=".12" stroke="#00baf2" stroke-opacity=".45"/><text x="214" y="177" text-anchor="middle" class="m" fill="#00baf2" style="font-size:12px">AI agents</text><rect x="266.0" y="160" width="81" height="26" rx="13" fill="#00baf2" fill-opacity=".12" stroke="#00baf2" stroke-opacity=".45"/><text x="307" y="177" text-anchor="middle" class="m" fill="#00baf2" style="font-size:12px">Hinglish</text>
+  <text x="434" y="40" text-anchor="end" class="m" fill="#8b949e" style="font-size:16px">↗</text>
+</svg>

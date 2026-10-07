@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Talk at DevFest Noida 2026: AI writes your code. Who checks it?">
+  <style>.m{font-family:'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161a33"/></linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4285f4"/><stop offset=".33" stop-color="#ea4335"/><stop offset=".66" stop-color="#fbbc04"/><stop offset="1" stop-color="#34a853"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="258" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="1" y="1" width="958" height="4" rx="2" fill="url(#hl)"/>
+  <text x="40" y="58" class="m" fill="#8b949e" style="font-size:13px;letter-spacing:2px">SPEAKER · DEVFEST NOIDA 2026</text>
+  <text x="40" y="112" class="s" fill="#e6edf3" style="font-size:38px;font-weight:800">AI writes your code.</text>
+  <text x="40" y="160" class="s" fill="url(#hl)" style="font-size:38px;font-weight:800">Who checks it?</text>
+  <text x="40" y="200" class="s" fill="#8b949e" style="font-size:15px">An Agent Skill that reviews Spring Boot PRs the way</text>
+  <text x="40" y="222" class="s" fill="#8b949e" style="font-size:15px">a senior engineer would, with secrets kept out of the AI's context.</text>
+
+  <rect x="530" y="40" width="396" height="190" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="548" y="70" class="m" fill="#8b949e" style="font-size:12px">/pr-review  ·  OrderService.java</text>
+  <line x1="530" y1="84" x2="926" y2="84" stroke="#30363d"/>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7500;1" dur="1.2s" fill="freeze"/><rect x="548" y="104" width="92" height="22" rx="11" fill="#ff7b72" fill-opacity=".15" stroke="#ff7b72" stroke-opacity=".6"/><text x="556" y="119" class="m" fill="#ff7b72" style="font-size:12px">slow-query</text><text x="650" y="119" class="m" fill="#e6edf3" style="font-size:12px">search() → EXPLAIN: Seq Scan</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8182;1" dur="1.6500000000000001s" fill="freeze"/><rect x="548" y="136" width="115" height="22" rx="11" fill="#d29922" fill-opacity=".15" stroke="#d29922" stroke-opacity=".6"/><text x="556" y="151" class="m" fill="#d29922" style="font-size:12px">ignored-error</text><text x="673" y="151" class="m" fill="#e6edf3" style="font-size:12px">catch (e) {} hides the failure</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8571;1" dur="2.1s" fill="freeze"/><rect x="548" y="168" width="107" height="22" rx="11" fill="#58a6ff" fill-opacity=".15" stroke="#58a6ff" stroke-opacity=".6"/><text x="556" y="183" class="m" fill="#58a6ff" style="font-size:12px">missing-test</text><text x="665" y="183" class="m" fill="#e6edf3" style="font-size:12px">no test for the failed refund</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8824;1" dur="2.55s" fill="freeze"/><rect x="548" y="200" width="84" height="22" rx="11" fill="#bc8cff" fill-opacity=".15" stroke="#bc8cff" stroke-opacity=".6"/><text x="556" y="215" class="m" fill="#bc8cff" style="font-size:12px">time-zone</text><text x="642" y="215" class="m" fill="#e6edf3" style="font-size:12px">LocalDate.now() with no ZoneId</text></g>
+</svg>
